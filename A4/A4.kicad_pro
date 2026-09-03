@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.048,
-          "height": 4.064,
-          "width": 4.064
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -152,7 +152,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 1.0,
+        "min_clearance": 0.8,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.075,
         "min_groove_width": 0.0,
@@ -694,7 +694,7 @@
         "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
-    "used_designators": "#FLG1-5,BZ1,R1-2,J1-2,J5-17,POWER_PLUG1,D1-2,#PWR6-45,A1",
+    "used_designators": "#FLG1-5,BZ1,R1-2,J1-38,POWER_PLUG1,D1-2,#PWR6-48,A1",
     "variants": []
   },
   "sheets": [
